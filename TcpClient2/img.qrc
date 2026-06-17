@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/backgro.jpg</file>
+    </qresource>
+</RCC>
